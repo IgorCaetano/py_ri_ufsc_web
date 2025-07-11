@@ -1,5 +1,5 @@
 # py_ri_ufsc_web
-Interface web para aplicação do pacote py_ri_ufsc
+Interface web para aplicação do pacote [py_ri_ufsc](https://pypi.org/project/py-ri-ufsc/).
 
 Disponível via Cloud Run sob link: 
 
